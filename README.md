@@ -2,4 +2,6 @@
 
 
 # inicjalizacja git-a
-`git init`
+```cli 
+git init
+```
