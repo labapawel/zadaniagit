@@ -1,2 +1,5 @@
 # zadaniagit
-opis
+
+
+# inicjalizacja git-a
+`git init`
