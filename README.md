@@ -10,3 +10,8 @@ git init
 ```cli
 git add .
 ```
+
+# komitowanie zmian
+```cli
+git commit -m "opis zmian"
+```
